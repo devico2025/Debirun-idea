@@ -1,0 +1,27 @@
+{
+  "name": "데비룬 포털",
+  "short_name": "데비룬",
+  "description": "데비룬과 소환사의 작업실 · 데비룬의 방 · 데빌커넥션 갤러리",
+  "lang": "ko",
+  "start_url": "/Debirun-idea/",
+  "scope": "/Debirun-idea/",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#140d26",
+  "theme_color": "#1a1130",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
